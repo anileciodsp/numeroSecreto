@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Mono',monospace;
     min-height: 600px;
-    background-image: url('img/numeros.jpg');
+    background-image: url('../img/numeros.jpg');
     background-color: #03337a;
     background-size: cover;
     background-position: center center;
